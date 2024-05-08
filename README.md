@@ -1,6 +1,6 @@
 # DS3 Datathon 2024 - Heart Diseases
 
-This notebook is meant to generate predictions for the heart diseases dataset for DS3 Datathon 2024.
+This notebook is meant to generate predictions for the heart diseases dataset for DS3 Datathon 2024, achieving 89% accuracy on private data.
 
 Created by:
 
