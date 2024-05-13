@@ -11,5 +11,6 @@ Created by:
 
 Acknowledgements:
 
+* [Dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
 * [DS3](https://ds3utsc.com/)
 
